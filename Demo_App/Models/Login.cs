@@ -9,5 +9,6 @@ namespace Demo_App.Models
     {
         public string _Regno;
         public string _course;
+        public string _pwd;
     }
 }
